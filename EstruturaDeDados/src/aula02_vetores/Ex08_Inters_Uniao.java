@@ -8,13 +8,13 @@ package aula02_vetores;
 import static aula02_vetores.Ex04_Inverter.exibeVetor;
 import static aula02_vetores.Ex04_Inverter.leInteiroPositivo;
 import static aula02_vetores.Ex04_Inverter.leVetorAleatorio;
-import static aula02_vetores.ex07_Busca.buscaLinear;
+import static aula02_vetores.Ex07_Busca.buscaLinear;
 
 /**
  *
  * @author arthur.msakemi
  */
-public class ex08_Inters_Uniao {
+public class Ex08_Inters_Uniao {
 
     public static void main(String[] args) {
         int t1, t2, v1[], v2[], inter[], uniao[];

@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  * @author arthur.msakemi
  */
-public class ex07_Busca {
+public class Ex07_Busca {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
